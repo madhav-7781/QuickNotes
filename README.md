@@ -32,7 +32,7 @@ MySQL: Database management.
 
 1. Clone the Repository:
 
-git clone https://github.com/yourusername/quicknotes.git
+git clone https://github.com/madhav-7781/quicknotes.git
 cd quicknotes
 
 2. Database Setup:
